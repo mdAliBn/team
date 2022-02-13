@@ -1,2 +1,5 @@
 # team
-jj
+studying github
+this note
+
+
